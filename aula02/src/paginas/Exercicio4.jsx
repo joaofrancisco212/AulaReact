@@ -1,4 +1,4 @@
-export default function Exercicio4()
+export default function Exercicio4(  )
 {
     return (
         <div>
